@@ -1,0 +1,39 @@
+                                            Infinite Software License Agreement
+                                                    15 August 2024
+                                    http://cpythonist.github.io/licenses/infiniteLicense
+
+    1. Grant of Rights
+    This Software License Agreement ("Agreement") governs the rights and obligations related to the use of the software ("Software"). Subject to the terms and conditions of this Agreement, the copyright holder ("Licensor") grants to any individual or entity ("Licensee") the following rights:
+
+    a) Right to Obtain and Use: The Licensee is granted the right to obtain a copy of the Software and to use it on any number of devices, without any restrictions on the type or number of devices.
+
+    2. Right to Modify
+    The Licensee is granted the right to access, modify, and create derivative works based on the source code of the Software. This includes the right to alter, adapt, or improve the Software, thereby creating modified versions ("Modifications") for any purpose, including but not limited to personal, educational, and commercial use.
+
+    3. Distribution of Modifications
+    The Licensee is permitted to distribute the Modifications under the following conditions:
+
+    a) Attribution: Any distribution of the Modifications must include a clear and prominent attribution to the original Software and its source. This attribution should state that the distributed code is a modified version of the original Software and should include the name of the original Software, the name of the Licensor, and a link to the source of the original Software, if available.
+
+    b) License Continuity: The Licensee must include a copy of this Agreement with any distribution of the Modifications, ensuring that recipients of the Modifications are aware of their rights and obligations under this Agreement.
+
+    4. Disclaimer of Warranties
+    The Software is provided "as-is," without any express or implied warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The Licensor does not warrant that the Software will meet the Licensee’s requirements, that the operation of the Software will be uninterrupted or error-free, or that any defects in the Software will be corrected.
+
+    5. Limitation of Liability
+    In no event shall the Licensor be liable for any damages, including but not limited to direct, indirect, incidental, special, or consequential damages, arising out of the use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages. This limitation of liability applies to any claims arising from the Software, including, without limitation, claims for breach of contract, breach of warranty, negligence, or strict liability.
+
+    6. Termination
+    The rights granted under this Agreement are perpetual unless terminated by the Licensor. The Licensor may terminate this Agreement if the Licensee fails to comply with any of the terms and conditions set forth herein. Upon termination, the Licensee must cease all use of the Software and destroy any copies of the Software in their possession.
+
+    7. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides, without regard to its conflict of law provisions. Any disputes arising out of or in connection with this Agreement shall be resolved in the courts of that jurisdiction.
+
+    8. Miscellaneous
+    a) Severability: If any provision of this Agreement is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions of this Agreement shall remain in full force and effect.
+
+    b) Entire Agreement: This Agreement constitutes the entire understanding between the Licensor and the Licensee with respect to the Software and supersedes all prior agreements, whether written or oral, relating to the Software.
+
+    c) Amendments: The Licensor reserves the right to modify or amend the terms of this Agreement at any time. Any such modifications or amendments will be effective upon being posted on the Licensor’s website or otherwise communicated to the Licensee.
+
+    END OF SOFTWARE AGREEMENT

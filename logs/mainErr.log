@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "E:\viperCompiler\viper\main.py", line 35, in <module>
+    lexer  = clex.Lexer(code)
+             ^^^^^^^^^^^^^^^^
+  File "E:\viperCompiler\viper\core\lex.py", line 23, in __init__
+    self.programTyping:int|None = self.__progDecl()
+                                  ^^^^^^^^^^^^^^^^^
+  File "E:\viperCompiler\viper\core\lex.py", line 38, in __progDecl
+    if typing.val.val not in ("dynamic", "static"):
+       ^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'val'
+Traceback (most recent call last):
+  File "E:\viperCompiler\viper\main.py", line 35, in <module>
+    lexer  = clex.Lexer(code)
+             ^^^^^^^^^^^^^^^^
+  File "E:\viperCompiler\viper\core\lex.py", line 23, in __init__
+    self.programTyping:int|None = self.__progDecl()
+                                  ^^^^^^^^^^^^^^^^^
+  File "E:\viperCompiler\viper\core\lex.py", line 39, in __progDecl
+    if typing.val.val not in ("dynamic", "static"):
+       ^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'val'
+Traceback (most recent call last):
+  File "E:\viperCompiler\viper\main.py", line 35, in <module>
+    lexer  = clex.Lexer(code)
+             ^^^^^^^^^^^^^^^^
+  File "E:\viperCompiler\viper\core\lex.py", line 23, in __init__
+    self.programTyping:int|None = self.__progDecl()
+                                  ^^^^^^^^^^^^^^^^^
+  File "E:\viperCompiler\viper\core\lex.py", line 39, in __progDecl
+    if typing.val.val not in ("dynamic", "static"):
+       ^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'val'

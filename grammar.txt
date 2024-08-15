@@ -1,0 +1,44 @@
+# First line for static or dynamic typing (optional; default static)
+~dynamic
+
+# Assignment
+let <typ> <var> = <val>;
+
+# Comparison
+(exp | var) (== | != | < | > | <= | > | >=) (exp | var)
+
+# Expression
+term (* | /) term [...]
+
+# Function declaration
+fun <return-typ> <var>([<typ> args]) {   # <return-typ> of the function is not implemented yet. Will be implemented.
+    <func-body>
+    [return <val:typ>]
+};
+
+# If statement
+if (<condition>) {
+    <if-body>
+}; [elif (<condition>) {
+    <elif-body>
+}; [<...elif-bodies...>] else {
+    <else-body>
+};]
+
+# While loop
+while (<condition>) {
+    <while-body>
+};
+
+# For loop
+# TODO: Implement for loop
+
+# Built-in types
+int  : Numbers without decimal point
+float: Numbers with one decimal point
+str  : Literals enclosed by ' or "
+bool : Literals "true | false"
+null : null                              # To be added...
+
+# Comments
+# A comment...

@@ -1,0 +1,20 @@
+print "Hehe";
+print 3*5/4*(90-4);
+print "Buuuuu" + "hee"
+print "Hebaaashe" - "baaa";
+
+let int   x = 3*(7/3);
+let float y = (3*5/4)*(90-4);
+let str   z = "B" + "h";
+
+fun new() {
+    print "No parameters";
+};
+fun baa(int a) {
+    print "One parameter";
+};
+fun hee(int a, float b) {
+    print "Two parameters";
+};
+
+# Many more... And few are not fixed...
