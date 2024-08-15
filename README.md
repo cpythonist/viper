@@ -14,7 +14,7 @@ Some features of the Viper language include (some of them are not implemented ye
 2. Extremely simple syntax, with easy-to-understand terms.
 3. High speed of the compiled application.
 
-Viper programming language is planned to compile using the `llvmlite` Python module.
+The Viper programming language is planned to compile using the `llvmlite` Python module.
 
 ## Usage
 A sample file called `main.vi` is present in the `tests\` directory. It can be used, or a new file can be created.
