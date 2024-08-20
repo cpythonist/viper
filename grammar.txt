@@ -34,11 +34,11 @@ while (<condition>) {
 # TODO: Implement for loop
 
 # Built-in types
-int  : Numbers without decimal point
-float: Numbers with one decimal point
-str  : Literals enclosed by ' or "
-bool : Literals "true | false"
-null : null                              # To be added...
+int   : Numbers without decimal point
+float : Numbers with one decimal point
+str   : Literals enclosed by ' or "
+bool  : Literals "true | false"
+null  : null                              # To be added...
 
 # Comments
 # A comment...
