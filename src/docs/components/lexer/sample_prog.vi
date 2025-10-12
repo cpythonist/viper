@@ -1,0 +1,13 @@
+typing sta;
+delim brac;
+
+let int x = 1;
+ch x = 5;
+
+if (x == 2) {
+    prn "Boooo!";
+};
+
+{
+    ch x = 10;
+}
