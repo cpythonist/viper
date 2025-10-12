@@ -43,10 +43,7 @@ remove the flags `-nass`, `-nwarn`, `-ndoc`, `-nextrafl` and `-q`.
 Execute `python.exe -B -OO ./vbuild.py -h` for help on the build script. The compiler uses
 [Nuitka](http://nuitka.net) to compile Python to binaries. Make sure Nuitka is installed in the
 Python environment being used. Make sure to activate the proper Python environment before
-building.  
-
-If you need the build script as a native executable, it is available in
-[the Releases page](http://github.com). Then, replace `python.exe -B -OO` with `vbuild.exe`.
+building.
 
 ## RUNNING
 
@@ -63,3 +60,4 @@ will be present in the directory `src/dev/`.
 ## CONTRIBUTING
 
 All contributions are welcome. Please contact me via GitHub if you want to contribute.
+
